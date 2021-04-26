@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-test.jsp
-update
-eclipse
-github
+test2.jsp
 </body>
 </html>
